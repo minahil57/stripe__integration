@@ -24,7 +24,7 @@ Before getting started, ensure you have the following installed:
 #### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/minahil57/stripe__integration
-cd flutter-stripe-integration
+cd stripe__integration
 ```
 
 #### 2️⃣ Install Dependencies  
